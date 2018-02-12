@@ -1,0 +1,4 @@
+from distances_iterator_action import distances_iterator_action
+from csv_iterator import iterate_over
+
+iterate_over(distances_iterator_action())
