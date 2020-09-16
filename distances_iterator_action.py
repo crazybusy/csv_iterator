@@ -42,7 +42,7 @@ class distances_iterator_action():
 
 
 def main():
-	print(routes_iterator_action().test_iterator_action())
+	print(distances_iterator_action().test_iterator_action())
 
 if __name__ == '__main__':
 	main()
